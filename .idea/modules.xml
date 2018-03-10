@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidComMySQL.iml" filepath="$PROJECT_DIR$/AndroidComMySQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidcomMySQL.iml" filepath="$PROJECT_DIR$/AndroidcomMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
